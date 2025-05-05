@@ -2,6 +2,9 @@
 
 This project demonstrates basic file operations in C++ to manage student records. The program allows the insertion, retrieval, update, and deletion of student data stored in a binary file. Each student is represented by a `Student` class, and all operations are performed on a file called `data.bin`.
 
+Watch [![YouTube](https://www.youtube.com/watch?v=nrTz-GPD1U4&list=PLQR3mV3wWgCobMm44v37pszW_BDf2yK_f)
+
+
 The project covers the following concepts:
 
 - Serialization and deserialization of objects
